@@ -1,0 +1,5 @@
+colour=input("enter colour:")
+list=colour.split("i")
+print("list",list)
+print("first colour is:",list[0])
+print("second colour is:",list[-1])
